@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "koe 3 aada/1.0.0": {
+        "runtime": {
+          "koe 3 aada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "koe 3 aada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

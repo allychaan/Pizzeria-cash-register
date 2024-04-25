@@ -1,0 +1,34 @@
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\bin\Debug\net8.0-windows\koe 3 aada.exe
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\bin\Debug\net8.0-windows\koe 3 aada.deps.json
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\bin\Debug\net8.0-windows\koe 3 aada.runtimeconfig.json
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\bin\Debug\net8.0-windows\koe 3 aada.dll
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\bin\Debug\net8.0-windows\koe 3 aada.pdb
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe_3_aada.Form1.resources
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe_3_aada.PriceSet.resources
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.csproj.GenerateResource.cache
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.AssemblyInfoInputs.cache
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.AssemblyInfo.cs
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.csproj.CoreCompileInputs.cache
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.dll
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\refint\koe 3 aada.dll
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.pdb
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.genruntimeconfig.cache
+C:\Users\topiadmin\source\repos\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\ref\koe 3 aada.dll
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe_3_aada.Form1.resources
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe_3_aada.PriceSet.resources
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.csproj.GenerateResource.cache
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.AssemblyInfoInputs.cache
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.AssemblyInfo.cs
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.csproj.CoreCompileInputs.cache
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.dll
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\refint\koe 3 aada.dll
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.pdb
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\bin\Debug\net8.0-windows\koe 3 aada.exe
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\bin\Debug\net8.0-windows\koe 3 aada.deps.json
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\bin\Debug\net8.0-windows\koe 3 aada.runtimeconfig.json
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\bin\Debug\net8.0-windows\koe 3 aada.dll
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\bin\Debug\net8.0-windows\koe 3 aada.pdb
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\koe 3 aada.genruntimeconfig.cache
+C:\Users\topiadmin\Documents\koe 3 aada\koe 3 aada\obj\Debug\net8.0-windows\ref\koe 3 aada.dll
